@@ -4,21 +4,22 @@ body {
 }
 
 .title-morning {
-    width: 350px;
-    font-size: 24px;
+    width: 600px;
+    font-size: 48px;
     margin: auto;
     color: beige;
 }
 
 .table {
     margin: auto;
-    width: 350px;
+    width: 600px;
     margin-top: 50px;
     margin-bottom: 50px;
-    padding-left: 20px;
+    padding-left: 30px;
     color: beige;
+    font-size: 36px;
 }
 
 li {
-    height: 30px;
+    height: 60px;
 }
